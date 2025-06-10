@@ -6,6 +6,7 @@ INSTALLED_APPS = [
     'reservations',
 ]
 
+
 # Middleware
 MIDDLEWARE = [
     ...
